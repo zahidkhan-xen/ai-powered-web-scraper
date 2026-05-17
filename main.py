@@ -2,7 +2,7 @@ from scrapegraphai.graphs import SmartScraperGraph
 
 graph_config = {
     "llm": {
-        "api_key": "gsk_rV**************    ",
+        "api_key": "gsk_Sz404GnQ6Jtko",
         "model": "groq/llama-3.1-8b-instant",
     },
     "verbose": True,
